@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">My name is Albia<br>I'm a Computer Science graduate<br>Checkout my portfolio - https://github.com/Mang0codes/Portfolio2024<br>Liked it? Let's work together and create magic.</p>
+<p align="left">My name is Albia<br>I'm a Computer Science graduate<br>Know more about me here - https://github.com/Mang0codes/Portfolio2024<br>Liked it? Let's work together and create magic.</p>
 
 ###
 
