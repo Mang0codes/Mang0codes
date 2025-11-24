@@ -1,8 +1,8 @@
-<div align="center">
+<!-- <div align="center">
   <img height="150" src="https://64.media.tumblr.com/5dae67a7543c2c7bd3e5c5818700f10e/tumblr_pjsmrxs8mt1r7o65e_400.gifv"  />
 </div>
 
-###
+### -->
 
 <h1 align="center">Hi, What's up?</h1>
 
