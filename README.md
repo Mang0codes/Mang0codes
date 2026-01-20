@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I'm Albia<br>CS grad just trying to build cool stuff & not lose my mind in the process.<br>Know more about me here(if you’re curious): <a href="https://portfolio2024-rust-seven.vercel.app/">albia.me</a>
+<p align="left">I'm Albia<br>CS grad just trying to build cool stuff & not lose my mind in the process.<br>Know more about me here(if you’re curious): <a href="https://albia.vercel.app/">albia.me</a>
 <br>if the energy matches, let’s make something dope together.</p>
 
 ###
